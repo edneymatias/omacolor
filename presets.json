@@ -1,0 +1,35 @@
+{
+  "white": [0.3127, 0.3290],
+  "presets": [
+    {
+      "id": "srgb",
+      "labelKey": "preset.srgb",
+      "primaries": { "r": [0.640, 0.330], "g": [0.300, 0.600], "b": [0.150, 0.060] },
+      "trc": { "type": "srgb" }
+    },
+    {
+      "id": "display-p3",
+      "labelKey": "preset.display-p3",
+      "primaries": { "r": [0.680, 0.320], "g": [0.265, 0.690], "b": [0.150, 0.060] },
+      "trc": { "type": "srgb" }
+    },
+    {
+      "id": "adobe-rgb",
+      "labelKey": "preset.adobe-rgb",
+      "primaries": { "r": [0.640, 0.330], "g": [0.210, 0.710], "b": [0.150, 0.060] },
+      "trc": { "type": "gamma", "value": 2.19921875 }
+    },
+    {
+      "id": "rec709",
+      "labelKey": "preset.rec709",
+      "primaries": { "r": [0.640, 0.330], "g": [0.300, 0.600], "b": [0.150, 0.060] },
+      "trc": { "type": "gamma", "value": 2.4 }
+    },
+    {
+      "id": "rec2020",
+      "labelKey": "preset.rec2020",
+      "primaries": { "r": [0.708, 0.292], "g": [0.170, 0.797], "b": [0.131, 0.046] },
+      "trc": { "type": "gamma", "value": 2.4 }
+    }
+  ]
+}

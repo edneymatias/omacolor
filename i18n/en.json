@@ -1,0 +1,18 @@
+{
+  "section.title": "COLOR",
+  "group.applied": "APPLIED",
+  "group.available": "AVAILABLE",
+  "value.none": "None",
+  "action.manage": "Manage profiles…",
+  "warn.wider": "This display cannot show all of this colour space",
+  "warn.invalidProfile": "%1 is not a valid ICC profile (%2). Nothing was applied.",
+  "warn.applyFailed": "%1 could not be applied (%2). Nothing was changed.",
+  "warn.unidentified": "This display does not identify itself (no make or model), so colour profiles are not available for it.",
+  "item.edid": "%1 (from this display)",
+  "item.builtinDisplay": "Built-in display",
+  "preset.srgb": "sRGB",
+  "preset.display-p3": "Display P3",
+  "preset.adobe-rgb": "Adobe RGB",
+  "preset.rec709": "Rec.709",
+  "preset.rec2020": "Rec.2020"
+}

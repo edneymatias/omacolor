@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.edneymatias.omacolor",
+  "name": "Omacolor",
+  "version": "0.1.0",
+  "author": "Matias",
+  "license": "MIT",
+  "description": "Per-monitor colour profiles in the Display panel: pick sRGB, Display P3, your own ICC files or a profile made from the display itself.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Omacolor",
+    "description": "Per-monitor colour profiles: pick sRGB, Display P3, your own ICC files or a profile made from the display",
+    "category": "System",
+    "allowMultiple": false
+  }
+}

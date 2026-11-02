@@ -1,0 +1,18 @@
+{
+  "section.title": "COR",
+  "group.applied": "APLICADO",
+  "group.available": "DISPONÍVEIS",
+  "value.none": "Nenhum",
+  "action.manage": "Gerenciar perfis…",
+  "warn.wider": "Este painel não mostra tudo desse espaço de cor",
+  "warn.invalidProfile": "%1 não é um perfil ICC válido (%2). Nada foi aplicado.",
+  "warn.applyFailed": "Não foi possível aplicar %1 (%2). Nada foi alterado.",
+  "warn.unidentified": "Esta tela não se identifica (sem fabricante ou modelo), então os perfis de cor não estão disponíveis para ela.",
+  "item.edid": "%1 (desta tela)",
+  "item.builtinDisplay": "Tela embutida",
+  "preset.srgb": "sRGB",
+  "preset.display-p3": "Display P3",
+  "preset.adobe-rgb": "Adobe RGB",
+  "preset.rec709": "Rec.709",
+  "preset.rec2020": "Rec.2020"
+}
